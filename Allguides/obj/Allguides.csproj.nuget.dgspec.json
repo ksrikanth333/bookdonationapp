@@ -1,0 +1,104 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\srikanth\\Desktop\\Asp.net core Projects\\Allguides\\Allguides\\Allguides.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\srikanth\\Desktop\\Asp.net core Projects\\Allguides\\Allguides\\Allguides.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\srikanth\\Desktop\\Asp.net core Projects\\Allguides\\Allguides\\Allguides.csproj",
+        "projectName": "Allguides",
+        "projectPath": "C:\\Users\\srikanth\\Desktop\\Asp.net core Projects\\Allguides\\Allguides\\Allguides.csproj",
+        "packagesPath": "C:\\Users\\srikanth\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\srikanth\\Desktop\\Asp.net core Projects\\Allguides\\Allguides\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\srikanth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\srikanth\\Desktop\\Asp.net core Projects\\Allguides\\Books.Data\\Books.Data.csproj": {
+                "projectPath": "C:\\Users\\srikanth\\Desktop\\Asp.net core Projects\\Allguides\\Books.Data\\Books.Data.csproj"
+              },
+              "C:\\Users\\srikanth\\Desktop\\Asp.net core Projects\\Allguides\\Books.Model\\Books.Model.csproj": {
+                "projectPath": "C:\\Users\\srikanth\\Desktop\\Asp.net core Projects\\Allguides\\Books.Model\\Books.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\srikanth\\Desktop\\Asp.net core Projects\\Allguides\\Books.Data\\Books.Data.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\srikanth\\Desktop\\Asp.net core Projects\\Allguides\\Books.Data\\Books.Data.csproj",
+        "projectName": "Books.Data",
+        "projectPath": "C:\\Users\\srikanth\\Desktop\\Asp.net core Projects\\Allguides\\Books.Data\\Books.Data.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\srikanth\\Desktop\\Asp.net core Projects\\Allguides\\Books.Model\\Books.Model.csproj": {
+                "projectPath": "C:\\Users\\srikanth\\Desktop\\Asp.net core Projects\\Allguides\\Books.Model\\Books.Model.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\srikanth\\Desktop\\Asp.net core Projects\\Allguides\\Books.Model\\Books.Model.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\srikanth\\Desktop\\Asp.net core Projects\\Allguides\\Books.Model\\Books.Model.csproj",
+        "projectName": "Books.Model",
+        "projectPath": "C:\\Users\\srikanth\\Desktop\\Asp.net core Projects\\Allguides\\Books.Model\\Books.Model.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

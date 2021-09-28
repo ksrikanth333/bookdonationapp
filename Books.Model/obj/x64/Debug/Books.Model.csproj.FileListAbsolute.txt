@@ -1,0 +1,6 @@
+C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Books.Model\bin\x64\Debug\Books.Model.dll
+C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Books.Model\bin\x64\Debug\Books.Model.pdb
+C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Books.Model\obj\x64\Debug\Books.Model.csproj.AssemblyReference.cache
+C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Books.Model\obj\x64\Debug\Books.Model.csproj.CoreCompileInputs.cache
+C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Books.Model\obj\x64\Debug\Books.Model.dll
+C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Books.Model\obj\x64\Debug\Books.Model.pdb

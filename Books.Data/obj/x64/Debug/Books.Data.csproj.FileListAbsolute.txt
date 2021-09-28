@@ -1,0 +1,9 @@
+C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Books.Data\bin\x64\Debug\Books.Data.dll
+C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Books.Data\bin\x64\Debug\Books.Data.pdb
+C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Books.Data\bin\x64\Debug\Books.Model.dll
+C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Books.Data\bin\x64\Debug\Books.Model.pdb
+C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Books.Data\obj\x64\Debug\Books.Data.csproj.AssemblyReference.cache
+C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Books.Data\obj\x64\Debug\Books.Data.csproj.CoreCompileInputs.cache
+C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Books.Data\obj\x64\Debug\Books.Data.csproj.CopyComplete
+C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Books.Data\obj\x64\Debug\Books.Data.dll
+C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Books.Data\obj\x64\Debug\Books.Data.pdb

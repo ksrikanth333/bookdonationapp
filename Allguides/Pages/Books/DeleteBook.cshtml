@@ -1,0 +1,13 @@
+﻿@page "{bookId:int}"
+@model Allguides.Pages.Books.DeleteBookModel
+@{
+    ViewData["Title"] = "Delete";
+}
+<h1>Delete Confirmation</h1>
+<div class="alert alert-danger">
+    <h5>Are You Sure you want to delete @Model.Book.BookName</h5>
+    <form method="post">
+        <button type="submit" class="btn btn-danger">Yes</button>
+        <a asp-page="./Books" class="btn btn-primary">No</a>
+     </form>
+</div>

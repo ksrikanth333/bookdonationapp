@@ -1,0 +1,81 @@
+﻿@page
+@model Allguides.Pages.Books.BooksModel
+@{
+}
+
+<div class="card" style="height: 600px;width: 95%; float: left; margin-left: 2%;border-color: brown;">
+    <div style="margin-right: 2%;">
+        <h5 class="card-title" style="margin-top: .5%;margin-left: 1%;">Available Books Details</h5>
+        <form method="get">
+            <div class="form-group">
+                <div class="input-group" style="margin-top: 1%;margin-left: 1%;margin-right: 1%;">
+                    <input class="form-control" type="text" placeholder="search here" asp-for="SearchTerm">
+                    <span>
+                        <button class="btn btn-primary" >
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
+                                <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z" />
+                            </svg>
+                        </button>
+                    </span>
+
+                </div>
+
+            </div>
+        </form>
+        
+    </div>
+    <div style="margin-right:2%">
+        <div class="table-responsive" style="margin-left: 1%">
+
+            <table class="table table-bordered">
+                <tbody>
+                    <tr>
+
+                        <th scope="col">Book Id</th>
+                        <th scope="col">Book Name</th>
+                        <th scope="col">Book Category</th>
+                        <th scope="col">Author Name</th>
+                        <th scope="col">Seller Or Donor Name</th>
+                        <th scope="col">Price</th>
+                        <th scope="col">Actions</th>
+                    </tr>
+                    @foreach (var book in Model.BooksList)
+                    {
+                        <tr>
+                            <td>@book.BookId</td>
+                            <td>@book.BookName</td>
+                            <td>@book.BookCategory</td>
+                            <td>@book.AuthorName</td>
+                            <td>@book.SellerOrDonorName</td>
+                            <td>@book.Price</td>
+                            <td>
+                                <a class="btn btn-primary" asp-page="./EditBook" asp-route-bookId="@book.BookId">Edit</a>
+                                <a class="btn btn-danger" asp-page="./DeleteBook" asp-route-bookId="@book.BookId">Delete</a>
+                            </td>
+                        </tr>
+                    }
+
+                </tbody>
+
+            </table>
+        </div>
+    </div>
+</div>
+@if (TempData["UpdateMessage"] != null)
+{
+    <script type="text/javascript">
+        window.onload = function () {
+
+                alert("@TempData["UpdateMessage"]");
+            };
+    </script>
+}
+@if (TempData["DeleteMessage"] != null)
+{
+    <script type="text/javascript">
+        window.onload = function () {
+
+                alert("@TempData["DeleteMessage"]");
+            };
+    </script>
+}
