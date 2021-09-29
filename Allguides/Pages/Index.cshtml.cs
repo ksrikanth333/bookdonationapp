@@ -32,10 +32,13 @@ namespace Allguides.Pages
         }
         public IActionResult OnPost(Book book)
         {
-            Book = book;
+                Book = book;
+                
+                books.AddBook(Book);
+                TempData["AddMessage"] = "Transaction Completed Successfully";
+            
+            
             Categories = htmlHelper.GetEnumSelectList<BookCategory>();
-            books.AddBook(Book);
-            TempData["AddMessage"]="Transaction Completed Successfully";
             return Page();
         }
     }

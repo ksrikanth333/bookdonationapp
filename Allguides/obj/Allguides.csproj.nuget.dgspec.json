@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\srikanth\\Desktop\\Asp.net core Projects\\Allguides\\Allguides\\Allguides.csproj": {}
+    "C:\\Users\\srikanth\\Desktop\\BookDonateWebApp\\bookdonationapp\\Allguides\\Allguides.csproj": {}
   },
   "projects": {
-    "C:\\Users\\srikanth\\Desktop\\Asp.net core Projects\\Allguides\\Allguides\\Allguides.csproj": {
+    "C:\\Users\\srikanth\\Desktop\\BookDonateWebApp\\bookdonationapp\\Allguides\\Allguides.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\srikanth\\Desktop\\Asp.net core Projects\\Allguides\\Allguides\\Allguides.csproj",
+        "projectUniqueName": "C:\\Users\\srikanth\\Desktop\\BookDonateWebApp\\bookdonationapp\\Allguides\\Allguides.csproj",
         "projectName": "Allguides",
-        "projectPath": "C:\\Users\\srikanth\\Desktop\\Asp.net core Projects\\Allguides\\Allguides\\Allguides.csproj",
+        "projectPath": "C:\\Users\\srikanth\\Desktop\\BookDonateWebApp\\bookdonationapp\\Allguides\\Allguides.csproj",
         "packagesPath": "C:\\Users\\srikanth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\srikanth\\Desktop\\Asp.net core Projects\\Allguides\\Allguides\\obj\\",
+        "outputPath": "C:\\Users\\srikanth\\Desktop\\BookDonateWebApp\\bookdonationapp\\Allguides\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,11 +31,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\srikanth\\Desktop\\Asp.net core Projects\\Allguides\\Books.Data\\Books.Data.csproj": {
-                "projectPath": "C:\\Users\\srikanth\\Desktop\\Asp.net core Projects\\Allguides\\Books.Data\\Books.Data.csproj"
+              "C:\\Users\\srikanth\\Desktop\\BookDonateWebApp\\bookdonationapp\\Books.Data\\Books.Data.csproj": {
+                "projectPath": "C:\\Users\\srikanth\\Desktop\\BookDonateWebApp\\bookdonationapp\\Books.Data\\Books.Data.csproj"
               },
-              "C:\\Users\\srikanth\\Desktop\\Asp.net core Projects\\Allguides\\Books.Model\\Books.Model.csproj": {
-                "projectPath": "C:\\Users\\srikanth\\Desktop\\Asp.net core Projects\\Allguides\\Books.Model\\Books.Model.csproj"
+              "C:\\Users\\srikanth\\Desktop\\BookDonateWebApp\\bookdonationapp\\Books.Model\\Books.Model.csproj": {
+                "projectPath": "C:\\Users\\srikanth\\Desktop\\BookDonateWebApp\\bookdonationapp\\Books.Model\\Books.Model.csproj"
               }
             }
           }
@@ -71,16 +71,16 @@
         }
       }
     },
-    "C:\\Users\\srikanth\\Desktop\\Asp.net core Projects\\Allguides\\Books.Data\\Books.Data.csproj": {
+    "C:\\Users\\srikanth\\Desktop\\BookDonateWebApp\\bookdonationapp\\Books.Data\\Books.Data.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\srikanth\\Desktop\\Asp.net core Projects\\Allguides\\Books.Data\\Books.Data.csproj",
+        "projectUniqueName": "C:\\Users\\srikanth\\Desktop\\BookDonateWebApp\\bookdonationapp\\Books.Data\\Books.Data.csproj",
         "projectName": "Books.Data",
-        "projectPath": "C:\\Users\\srikanth\\Desktop\\Asp.net core Projects\\Allguides\\Books.Data\\Books.Data.csproj",
+        "projectPath": "C:\\Users\\srikanth\\Desktop\\BookDonateWebApp\\bookdonationapp\\Books.Data\\Books.Data.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "C:\\Users\\srikanth\\Desktop\\Asp.net core Projects\\Allguides\\Books.Model\\Books.Model.csproj": {
-                "projectPath": "C:\\Users\\srikanth\\Desktop\\Asp.net core Projects\\Allguides\\Books.Model\\Books.Model.csproj"
+              "C:\\Users\\srikanth\\Desktop\\BookDonateWebApp\\bookdonationapp\\Books.Model\\Books.Model.csproj": {
+                "projectPath": "C:\\Users\\srikanth\\Desktop\\BookDonateWebApp\\bookdonationapp\\Books.Model\\Books.Model.csproj"
               }
             }
           }
@@ -90,11 +90,11 @@
         "net472": {}
       }
     },
-    "C:\\Users\\srikanth\\Desktop\\Asp.net core Projects\\Allguides\\Books.Model\\Books.Model.csproj": {
+    "C:\\Users\\srikanth\\Desktop\\BookDonateWebApp\\bookdonationapp\\Books.Model\\Books.Model.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\srikanth\\Desktop\\Asp.net core Projects\\Allguides\\Books.Model\\Books.Model.csproj",
+        "projectUniqueName": "C:\\Users\\srikanth\\Desktop\\BookDonateWebApp\\bookdonationapp\\Books.Model\\Books.Model.csproj",
         "projectName": "Books.Model",
-        "projectPath": "C:\\Users\\srikanth\\Desktop\\Asp.net core Projects\\Allguides\\Books.Model\\Books.Model.csproj"
+        "projectPath": "C:\\Users\\srikanth\\Desktop\\BookDonateWebApp\\bookdonationapp\\Books.Model\\Books.Model.csproj"
       },
       "frameworks": {
         "net472": {}

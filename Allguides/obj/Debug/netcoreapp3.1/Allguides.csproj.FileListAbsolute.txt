@@ -1,46 +1,46 @@
-C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Allguides\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Allguides\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Allguides\bin\Debug\netcoreapp3.1\Allguides.exe
-C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Allguides\bin\Debug\netcoreapp3.1\Allguides.deps.json
-C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Allguides\bin\Debug\netcoreapp3.1\Allguides.runtimeconfig.json
-C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Allguides\bin\Debug\netcoreapp3.1\Allguides.runtimeconfig.dev.json
-C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Allguides\bin\Debug\netcoreapp3.1\Allguides.dll
-C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Allguides\bin\Debug\netcoreapp3.1\Allguides.pdb
-C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Allguides\bin\Debug\netcoreapp3.1\Allguides.Views.dll
-C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Allguides\bin\Debug\netcoreapp3.1\Allguides.Views.pdb
-C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Allguides\bin\Debug\netcoreapp3.1\Books.Data.dll
-C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Allguides\bin\Debug\netcoreapp3.1\Books.Model.dll
-C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Allguides\bin\Debug\netcoreapp3.1\Books.Data.pdb
-C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Allguides\bin\Debug\netcoreapp3.1\Books.Model.pdb
-C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Allguides\obj\Debug\netcoreapp3.1\Allguides.csproj.AssemblyReference.cache
-C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Allguides\obj\Debug\netcoreapp3.1\Allguides.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Allguides\obj\Debug\netcoreapp3.1\Allguides.AssemblyInfoInputs.cache
-C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Allguides\obj\Debug\netcoreapp3.1\Allguides.AssemblyInfo.cs
-C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Allguides\obj\Debug\netcoreapp3.1\Allguides.csproj.CoreCompileInputs.cache
-C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Allguides\obj\Debug\netcoreapp3.1\Allguides.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Allguides\obj\Debug\netcoreapp3.1\Allguides.RazorAssemblyInfo.cache
-C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Allguides\obj\Debug\netcoreapp3.1\Allguides.RazorAssemblyInfo.cs
-C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Allguides\obj\Debug\netcoreapp3.1\staticwebassets\Allguides.StaticWebAssets.Manifest.cache
-C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Allguides\obj\Debug\netcoreapp3.1\staticwebassets\Allguides.StaticWebAssets.xml
-C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Allguides\obj\Debug\netcoreapp3.1\scopedcss\bundle\Allguides.styles.css
-C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Allguides\obj\Debug\netcoreapp3.1\Allguides.TagHelpers.input.cache
-C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Allguides\obj\Debug\netcoreapp3.1\Allguides.TagHelpers.output.cache
-C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Allguides\obj\Debug\netcoreapp3.1\Allguides.RazorCoreGenerate.cache
-C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Allguides\obj\Debug\netcoreapp3.1\Razor\Pages\Books\Books.cshtml.g.cs
-C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Allguides\obj\Debug\netcoreapp3.1\Razor\Pages\Books\DeleteBook.cshtml.g.cs
-C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Allguides\obj\Debug\netcoreapp3.1\Razor\Pages\Books\EditBook.cshtml.g.cs
-C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Allguides\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
-C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Allguides\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
-C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Allguides\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
-C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Allguides\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
-C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Allguides\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Allguides\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
-C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Allguides\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
-C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Allguides\obj\Debug\netcoreapp3.1\Allguides.RazorTargetAssemblyInfo.cache
-C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Allguides\obj\Debug\netcoreapp3.1\Allguides.RazorTargetAssemblyInfo.cs
-C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Allguides\obj\Debug\netcoreapp3.1\Allguides.Views.pdb
-C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Allguides\obj\Debug\netcoreapp3.1\Allguides.csproj.CopyComplete
-C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Allguides\obj\Debug\netcoreapp3.1\Allguides.dll
-C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Allguides\obj\Debug\netcoreapp3.1\Allguides.pdb
-C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Allguides\obj\Debug\netcoreapp3.1\Allguides.genruntimeconfig.cache
-C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Allguides\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout1.cshtml.g.cs
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Allguides\bin\Debug\netcoreapp3.1\Books.Data.dll
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Allguides\bin\Debug\netcoreapp3.1\Books.Model.dll
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Allguides\bin\Debug\netcoreapp3.1\Books.Data.pdb
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Allguides\bin\Debug\netcoreapp3.1\Books.Model.pdb
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Allguides\obj\Debug\netcoreapp3.1\Allguides.csproj.AssemblyReference.cache
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Allguides\obj\Debug\netcoreapp3.1\Allguides.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Allguides\obj\Debug\netcoreapp3.1\Allguides.AssemblyInfoInputs.cache
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Allguides\obj\Debug\netcoreapp3.1\Allguides.AssemblyInfo.cs
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Allguides\obj\Debug\netcoreapp3.1\Allguides.csproj.CoreCompileInputs.cache
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Allguides\obj\Debug\netcoreapp3.1\Allguides.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Allguides\obj\Debug\netcoreapp3.1\Allguides.RazorAssemblyInfo.cache
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Allguides\obj\Debug\netcoreapp3.1\Allguides.RazorAssemblyInfo.cs
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Allguides\obj\Debug\netcoreapp3.1\staticwebassets\Allguides.StaticWebAssets.Manifest.cache
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Allguides\obj\Debug\netcoreapp3.1\staticwebassets\Allguides.StaticWebAssets.xml
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Allguides\obj\Debug\netcoreapp3.1\scopedcss\bundle\Allguides.styles.css
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Allguides\obj\Debug\netcoreapp3.1\Allguides.TagHelpers.input.cache
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Allguides\obj\Debug\netcoreapp3.1\Allguides.TagHelpers.output.cache
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Allguides\obj\Debug\netcoreapp3.1\Allguides.RazorCoreGenerate.cache
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Allguides\obj\Debug\netcoreapp3.1\Razor\Pages\Books\Books.cshtml.g.cs
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Allguides\obj\Debug\netcoreapp3.1\Razor\Pages\Books\DeleteBook.cshtml.g.cs
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Allguides\obj\Debug\netcoreapp3.1\Razor\Pages\Books\EditBook.cshtml.g.cs
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Allguides\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Allguides\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Allguides\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Allguides\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Allguides\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout1.cshtml.g.cs
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Allguides\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Allguides\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Allguides\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Allguides\obj\Debug\netcoreapp3.1\Allguides.RazorTargetAssemblyInfo.cache
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Allguides\obj\Debug\netcoreapp3.1\Allguides.RazorTargetAssemblyInfo.cs
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Allguides\obj\Debug\netcoreapp3.1\Allguides.Views.pdb
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Allguides\obj\Debug\netcoreapp3.1\Allguides.dll
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Allguides\obj\Debug\netcoreapp3.1\Allguides.pdb
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Allguides\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Allguides\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Allguides\bin\Debug\netcoreapp3.1\Allguides.exe
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Allguides\bin\Debug\netcoreapp3.1\Allguides.deps.json
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Allguides\bin\Debug\netcoreapp3.1\Allguides.runtimeconfig.json
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Allguides\bin\Debug\netcoreapp3.1\Allguides.runtimeconfig.dev.json
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Allguides\bin\Debug\netcoreapp3.1\Allguides.dll
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Allguides\bin\Debug\netcoreapp3.1\Allguides.pdb
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Allguides\bin\Debug\netcoreapp3.1\Allguides.Views.dll
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Allguides\bin\Debug\netcoreapp3.1\Allguides.Views.pdb
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Allguides\obj\Debug\netcoreapp3.1\Allguides.csproj.CopyComplete
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Allguides\obj\Debug\netcoreapp3.1\Allguides.genruntimeconfig.cache

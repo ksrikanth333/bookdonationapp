@@ -4,3 +4,9 @@ C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Books.Model\obj\Debug\
 C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Books.Model\obj\Debug\Books.Model.csproj.CoreCompileInputs.cache
 C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Books.Model\obj\Debug\Books.Model.dll
 C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Books.Model\obj\Debug\Books.Model.pdb
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Books.Model\bin\Debug\Books.Model.dll
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Books.Model\bin\Debug\Books.Model.pdb
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Books.Model\obj\Debug\Books.Model.csproj.AssemblyReference.cache
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Books.Model\obj\Debug\Books.Model.csproj.CoreCompileInputs.cache
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Books.Model\obj\Debug\Books.Model.dll
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Books.Model\obj\Debug\Books.Model.pdb

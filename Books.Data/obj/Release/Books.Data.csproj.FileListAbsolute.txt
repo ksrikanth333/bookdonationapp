@@ -7,3 +7,12 @@ C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Books.Data\obj\Release
 C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Books.Data\obj\Release\Books.Data.csproj.CopyComplete
 C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Books.Data\obj\Release\Books.Data.dll
 C:\Users\srikanth\Desktop\Asp.net core Projects\Allguides\Books.Data\obj\Release\Books.Data.pdb
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Books.Data\bin\Release\Books.Data.dll
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Books.Data\bin\Release\Books.Data.pdb
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Books.Data\bin\Release\Books.Model.dll
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Books.Data\bin\Release\Books.Model.pdb
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Books.Data\obj\Release\Books.Data.csproj.AssemblyReference.cache
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Books.Data\obj\Release\Books.Data.csproj.CoreCompileInputs.cache
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Books.Data\obj\Release\Books.Data.csproj.CopyComplete
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Books.Data\obj\Release\Books.Data.dll
+C:\Users\srikanth\Desktop\BookDonateWebApp\bookdonationapp\Books.Data\obj\Release\Books.Data.pdb
