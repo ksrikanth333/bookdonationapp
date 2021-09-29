@@ -36,7 +36,7 @@ steps:
   displayName: 'Publish the project - Release'
   inputs:
     command: 'publish'
-    projects: '**/*.csproj'
+    projects: 'Allguides.csproj'
     publishWebProjects: false
     arguments: '--no-build --configuration Release --output $(Build.ArtifactStagingDirectory)/Release'
     zipAfterPublish: true
